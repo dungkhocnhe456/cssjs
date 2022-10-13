@@ -2,7 +2,7 @@
 	var url_popup = 'http://bconscity.binhduong.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://bconscity.binhduong.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
